@@ -7,3 +7,5 @@ My stupid boss still prefers SVN.
 阳光总在风雨后
 谁愿常躲在避风的港口
 宁有波涛汹涌的自由
+我已明白简单的提交
+在修改些什么呢
