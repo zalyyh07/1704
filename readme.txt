@@ -1,2 +1,2 @@
-Git is a version control stysten
-Git is free software
+
+Git has a mutable index called stage.
